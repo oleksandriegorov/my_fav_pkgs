@@ -8,7 +8,6 @@
       - net-tools
       - bind-utils
       - vim
-      - whois 
       - telnet
     become: true
     become_method: sudo
